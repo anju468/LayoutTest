@@ -1,12 +1,12 @@
 ## Readme
 # LayoutTest
-### This program showcases the basics of html
+### This program showcases the basics of css
 ### Contributors - Anju Purushothaman
 
 ## [Git Hub Page ](https://anju468.github.io/LayoutTest)
 
 ### technologies used
-#### html, css, javascript, jquery, boostrap
+#### html, css, 
 #### Copyright (c) 2015 Anju Purushothaman
 
 #### This software is licensed under the MIT license.
